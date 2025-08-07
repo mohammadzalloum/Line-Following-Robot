@@ -1,6 +1,8 @@
 # 🤖 Line-Following Robot
 
-![Line3](https://github.com/user-attachments/assets/4b296f53-bb9e-4348-a93a-90e985b5ab96)
+<img src="https://github.com/user-attachments/assets/4b296f53-bb9e-4348-a93a-90e985b5ab96" alt="Robot image" style="width: 400px; max-width: 100%; height: auto;" />
+
+
 
 A **Line-Following Robot** designed to detect and follow black lines on a white surface using a reflectance sensor array and controlled via an ESP32 microcontroller. This project demonstrates the fundamentals of robotics, embedded systems, and sensor-based navigation.
 
